@@ -1,2 +1,2 @@
 # algorithms
-Implementation of many algorithms in Go lang
+Implementation of algorithms in Go lang
